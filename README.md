@@ -1,7 +1,7 @@
 # Flash-Erase-for-STM32
 Flash Erase Example Code for STM32F429 Development Board.
 
-You can read the article about brief introduction and use cases for flash erase here:
+You can read my article about brief introduction and use cases for flash erase here:
 https://sumedhburbure.medium.com/flash-erase-for-stm32-5abf8e206bec
 
 ### Reference:
